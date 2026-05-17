@@ -2,4 +2,4 @@
 # Run the uv init .
 # uv env
 # source .venv/bin/activate
-# python server.py
+# npx @modelcontextprotocol/inspector uv run server.py
